@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830895219454",
+    "firebase_url": "https://midterm1-ca415.firebaseio.com",
+    "project_id": "midterm1-ca415",
+    "storage_bucket": "midterm1-ca415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830895219454:android:e46a049dbba7a3b4c8fbaf",
+        "android_client_info": {
+          "package_name": "com.example.levanmidterm1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830895219454-09adc210pge12q4g7vehi6iake2vsff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxd27YbfIBVcyqXGfhvjmi5w8PDp-dCSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830895219454-09adc210pge12q4g7vehi6iake2vsff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
